@@ -1,20 +1,20 @@
 # Sharpened Mind Tech & Solutions Pvt. Ltd.
 
-🔹 **Innovating with Purpose | Building Trust, Creating Success**  
-🔹 Tech-driven solutions across websites, AI resume systems, and enterprise integrations.
+🔹 **Building Trust, Creating Success**  
+🔹 Dyanamic Service Based and Product-driven company with solutions across websites, AI resume systems, and enterprise integrations.
 
 ---
 
-## 💼 What We Do
+## What We Do
 
-- 🌐 Full-Stack Website & Application Development (MERN)
-- 🤖 AI Resume Builder + Learning Platforms (Provile)
+- 🌐 Full-Stack Website & Application Development (MERN) & Digital Marketing & AI Integration & AI Development
+- 🤖 AI Resume Builder + Learning Platforms (Profile View) and Nigazh Billing Software
 - 📈 SEO, Performance Optimization, & Hosting
 - 🎓 Campus to Corporate: Tech Training & Hiring Solutions
 
 ---
 
-## 🔧 Our Tech Stack
+## Our Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,figma,github,vercel,netlify,html,css,js,express" />
@@ -22,18 +22,18 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- [`provile-ai`](https://github.com/yourorg/provile-ai) – AI-powered resume builder & curated roadmap assistant  
-- [`campus-connect`](https://github.com/yourorg/campus-connect) – ERP platform for training & placement coordination  
-- [`client-website-templates`](https://github.com/yourorg/client-website-templates) – Deployable templates for modern web clients
+- [`profile View`](https://www.sharpenedmindtechnologies.com/products) – AI-powered resume builder & curated roadmap assistant  
+- [`campus-connect`](https://www.sharpenedmindtechnologies.com/tech-training) – ERP platform for training & placement coordination  
+- [`client-website-templates`](https://www.sharpenedmindtechnologies.com/web-development) – Deployable templates for modern web clients
 
 ---
 
-## 📞 Reach Us
+## Reach Us
 
-- ✉️ sharpenedmindtech@gmail.com  
-- 🌐 [www.sharpenedmindtech.com](https://yourwebsite.com)  
+- ✉️ contact@sharpenedmindtechnologies.com 
+- 🌐 [www.sharpenedmindtech.com](https://www.sharpenedmindtechnologies.com/)  
 - 📍 Based in Madurai, Tamil Nadu, India
 
 > ✅ UDYAM Registered | Startup India | MCA Incorporated
