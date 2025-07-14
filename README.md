@@ -17,7 +17,7 @@
 ## Our Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,figma,github,vercel,netlify,html,css,js,express" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,figma,github,vercel,netlify,html,css,js,express,androidstudio" />
 </p>
 
 ---
